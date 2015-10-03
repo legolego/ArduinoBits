@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArduinoBits", "ArduinoBits.vcxproj", "{D09E5278-5C9A-4645-908A-4A069603D57F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlinkFaster", "BlinkFaster\BlinkFaster.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "I2CScanner", "I2CScanner\I2CScanner.vcxproj", "{10633372-BABE-47AB-A8BF-9D80EBDA0133}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UltrasonicRangefinder", "UltrasonicRangefinder\UltrasonicRangefinder.vcxproj", "{40131E17-53BF-489E-A70C-A5323EDAE6E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D09E5278-5C9A-4645-908A-4A069603D57F}.Debug|x64.ActiveCfg = Debug|x64
+		{D09E5278-5C9A-4645-908A-4A069603D57F}.Debug|x64.Build.0 = Debug|x64
+		{D09E5278-5C9A-4645-908A-4A069603D57F}.Debug|x86.ActiveCfg = Debug|Win32
+		{D09E5278-5C9A-4645-908A-4A069603D57F}.Debug|x86.Build.0 = Debug|Win32
+		{D09E5278-5C9A-4645-908A-4A069603D57F}.Release|x64.ActiveCfg = Release|x64
+		{D09E5278-5C9A-4645-908A-4A069603D57F}.Release|x64.Build.0 = Release|x64
+		{D09E5278-5C9A-4645-908A-4A069603D57F}.Release|x86.ActiveCfg = Release|Win32
+		{D09E5278-5C9A-4645-908A-4A069603D57F}.Release|x86.Build.0 = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x64.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x64.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{10633372-BABE-47AB-A8BF-9D80EBDA0133}.Debug|x64.ActiveCfg = Debug|Win32
+		{10633372-BABE-47AB-A8BF-9D80EBDA0133}.Debug|x86.ActiveCfg = Debug|Win32
+		{10633372-BABE-47AB-A8BF-9D80EBDA0133}.Debug|x86.Build.0 = Debug|Win32
+		{10633372-BABE-47AB-A8BF-9D80EBDA0133}.Release|x64.ActiveCfg = Release|Win32
+		{10633372-BABE-47AB-A8BF-9D80EBDA0133}.Release|x86.ActiveCfg = Release|Win32
+		{10633372-BABE-47AB-A8BF-9D80EBDA0133}.Release|x86.Build.0 = Release|Win32
+		{40131E17-53BF-489E-A70C-A5323EDAE6E6}.Debug|x64.ActiveCfg = Debug|Win32
+		{40131E17-53BF-489E-A70C-A5323EDAE6E6}.Debug|x86.ActiveCfg = Debug|Win32
+		{40131E17-53BF-489E-A70C-A5323EDAE6E6}.Debug|x86.Build.0 = Debug|Win32
+		{40131E17-53BF-489E-A70C-A5323EDAE6E6}.Release|x64.ActiveCfg = Release|Win32
+		{40131E17-53BF-489E-A70C-A5323EDAE6E6}.Release|x86.ActiveCfg = Release|Win32
+		{40131E17-53BF-489E-A70C-A5323EDAE6E6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
