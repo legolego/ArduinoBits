@@ -13,9 +13,6 @@ A5				SLC
 
 */
 //Libraries
-
-
-
 #include <Wire.h>                
 #include <LiquidCrystal_I2C.h>   //Display Library
 #include <NewPing.h>             //Sensor Library 
