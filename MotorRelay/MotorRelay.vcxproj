@@ -74,10 +74,10 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>C:\Arduino\hardware\arduino\avr\cores\arduino;C:\Arduino\hardware\arduino\avr\variants\standard;C:\Users\nikolsky\Documents\Arduino\MotorRelay;C:\Arduino\libraries;C:\Arduino\hardware\arduino\avr\libraries;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\clnkiyrx.ctl\Micro Platforms\default\debuggers;C:\Users\nikolsky\Documents\Arduino\libraries;C:\Users\nikolsky\Documents\Arduino\MotorRelay;C:\Arduino\hardware\arduino\avr\cores\arduino;C:\Arduino\hardware\arduino\avr\variants\standard;C:\Arduino\hardware\tools\avr/avr/include/;C:\Arduino\hardware\tools\avr//avr/include/avr/;C:\Arduino\hardware\tools\avr/lib\gcc\avr\4.8.1\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <ForcedIncludeFiles>C:\Users\nikolsky\Documents\Arduino\MotorRelay\__vm\.MotorRelay.vsarduino.h;%(ForcedIncludeFiles)</ForcedIncludeFiles>
+      <AdditionalIncludeDirectories>C:\Arduino\hardware\arduino\avr\cores\arduino;C:\Arduino\hardware\arduino\avr\variants\eightanaloginputs;C:\Users\nikolsky\Documents\Arduino\ArduinoBits\MotorRelay;C:\Arduino\libraries;C:\Arduino\hardware\arduino\avr\libraries;C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\clnkiyrx.ctl\Micro Platforms\default\debuggers;C:\Users\nikolsky\Documents\Arduino\libraries;C:\Users\nikolsky\Documents\Arduino\ArduinoBits\IRObstacleAvoidance;C:\Arduino\hardware\arduino\avr\cores\arduino;C:\Arduino\hardware\arduino\avr\variants\eightanaloginputs;C:\Arduino\hardware\tools\avr/avr/include/;C:\Arduino\hardware\tools\avr//avr/include/avr/;C:\Arduino\hardware\tools\avr/lib\gcc\avr\4.8.1\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <ForcedIncludeFiles>C:\Users\nikolsky\Documents\Arduino\ArduinoBits\MotorRelay\__vm\.MotorRelay.vsarduino.h;%(ForcedIncludeFiles)</ForcedIncludeFiles>
       <IgnoreStandardIncludePath>true</IgnoreStandardIncludePath>
-      <PreprocessorDefinitions>__AVR_ATmega328p__;__AVR_ATmega328P__;F_CPU=16000000L;ARDUINO=165;ARDUINO_AVR_UNO;ARDUINO_ARCH_AVR;__cplusplus;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>__AVR_ATmega328p__;__AVR_ATmega328P__;F_CPU=16000000L;ARDUINO=165;ARDUINO_AVR_NANO;ARDUINO_ARCH_AVR;__cplusplus;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
