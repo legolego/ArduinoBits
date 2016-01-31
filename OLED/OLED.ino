@@ -145,7 +145,8 @@ void setup() {
 	display.println(3.141592);
 	display.setTextSize(2);
 	display.setTextColor(WHITE);
-	display.print("0x"); display.println(0xDEADBEEF, HEX);
+	display.print("0x"); 
+	display.println(0xDEADBEEF, HEX);
 	display.display();
 	delay(2000);
 
